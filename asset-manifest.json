@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrazexReact/static/css/main.c5be4bdc.css",
+    "main.js": "/FrazexReact/static/js/main.99249a7d.js",
+    "static/js/787.54c49ffc.chunk.js": "/FrazexReact/static/js/787.54c49ffc.chunk.js",
+    "index.html": "/FrazexReact/index.html",
+    "main.c5be4bdc.css.map": "/FrazexReact/static/css/main.c5be4bdc.css.map",
+    "main.99249a7d.js.map": "/FrazexReact/static/js/main.99249a7d.js.map",
+    "787.54c49ffc.chunk.js.map": "/FrazexReact/static/js/787.54c49ffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5be4bdc.css",
+    "static/js/main.99249a7d.js"
+  ]
+}
